@@ -16,7 +16,7 @@ namespace StrategyMagic.GameArchitect
         // 		this.Amount = Amount;
         // 	}
         // }
-        public int Level = 0;
+        public uint Level = 0;
         // public List<Price> cost = new List<Price>();
         public Building(string CurCode, string CurDescr,  int Level)
         {
